@@ -10,6 +10,10 @@ public class MisMetodos {
      * @return cadena con el mensaje concatenado con otro String
      */
     public static String saludo(String mensaje){
+
         return "Saludo MODIFICACION: " + mensaje;
+    }
+    public static String adios(String mensaje){
+        return "adios: " + mensaje;
     }
 }
