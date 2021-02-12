@@ -1,3 +1,5 @@
+package Libreria;
+
 /**
  * Contiene metodos utiles para usar en los proyectos
  */
